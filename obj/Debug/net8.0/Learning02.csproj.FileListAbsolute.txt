@@ -1,0 +1,14 @@
+P:\Programacion\BYU\CSE 210\Learning02\bin\Debug\net8.0\Learning02.exe
+P:\Programacion\BYU\CSE 210\Learning02\bin\Debug\net8.0\Learning02.deps.json
+P:\Programacion\BYU\CSE 210\Learning02\bin\Debug\net8.0\Learning02.runtimeconfig.json
+P:\Programacion\BYU\CSE 210\Learning02\bin\Debug\net8.0\Learning02.dll
+P:\Programacion\BYU\CSE 210\Learning02\bin\Debug\net8.0\Learning02.pdb
+P:\Programacion\BYU\CSE 210\Learning02\obj\Debug\net8.0\Learning02.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programacion\BYU\CSE 210\Learning02\obj\Debug\net8.0\Learning02.AssemblyInfoInputs.cache
+P:\Programacion\BYU\CSE 210\Learning02\obj\Debug\net8.0\Learning02.AssemblyInfo.cs
+P:\Programacion\BYU\CSE 210\Learning02\obj\Debug\net8.0\Learning02.csproj.CoreCompileInputs.cache
+P:\Programacion\BYU\CSE 210\Learning02\obj\Debug\net8.0\Learning02.dll
+P:\Programacion\BYU\CSE 210\Learning02\obj\Debug\net8.0\refint\Learning02.dll
+P:\Programacion\BYU\CSE 210\Learning02\obj\Debug\net8.0\Learning02.pdb
+P:\Programacion\BYU\CSE 210\Learning02\obj\Debug\net8.0\Learning02.genruntimeconfig.cache
+P:\Programacion\BYU\CSE 210\Learning02\obj\Debug\net8.0\ref\Learning02.dll
